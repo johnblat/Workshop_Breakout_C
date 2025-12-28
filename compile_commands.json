@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "C:/Users/johnb/source/repos/Breakout_C",
+    "command": "clang -Iraylib/include main.c",
+    "file": "main.c"
+  }
+]
