@@ -14,18 +14,5 @@
 			"working_dir": "${project_path}",
 		}
 	],
-	"settings":
-	{
-		"auto_complete": true,
-		"LSP":
-		{
-			"clangd":
-			{
-				"enabled": true,
-				"initializationOptions": {
-					 "fallbackFlags": ["-I ./raylib/include"],
-				},
-			},
-		},
-	},
+
 }
